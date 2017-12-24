@@ -1,0 +1,19 @@
+{
+  "latestEpisodes": {
+    "2": {
+      "id":"0",
+      "name":"#1 - Welcome to the Test",
+      "description":"After Skye can't find a good Javascript based podcast site, he tries to create one."
+    },
+    "1": {
+      "id":"1",
+      "name":"#2 - Welcome to the Test",
+      "description":"After Skye can't find a good Javascript based podcast site, he tries to create one."
+    },
+    "0": {
+      "id":"2",
+      "name":"#3 - Welcome to the Test",
+      "description":"After Skye can't find a good Javascript based podcast site, he tries to create one."
+    }
+  }
+}
